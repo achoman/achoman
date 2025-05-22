@@ -8,7 +8,7 @@ I am an experienced smart contract security researcher with over 5 years in the 
 
 | Project | Commit | Report Link |
 | -------- | -------- | -------- |
-| [Vechain Foundation](https://vechain.org/)| [cc02ec0](https://github.com/vechain/nft-maas-sc)     | [Report](https://audits.hacken.io/vechain-foundation/sca-vechain-basemarketplace-jun2024/)  |
+| [Vechain Foundation](https://vechain.org/)| [cc02ec0](https://github.com/vechain/nft-maas-sc)     | [Report](https://hacken.io/audits/vechain-foundation/sca-vechain-basemarketplace-jun2024/)  |
 | [EverValue Coin](https://evervaluecoin.com/)| [c591236](https://github.com/devervalue/orderbook)     | [Report](https://hacken.io/audits/evervalue-coin/sca-evervalue-coin-orderbook-nov2024/)  |
 | [Common Wealth Marketplace](http://common-wealth.io/)| [95f00be](https://github.com/CommonWealthDAO/commonwealth-contracts)     | [Report](https://hacken.io/audits/common-wealth/sca-common-wealth-marketplace-sep2024/)  |
 | [AgentXYZ](https://www.agentxyz.io/)| [-------](https://basescan.org/address/0x44892Dc196d250FebD725b7fc6c223d771ED8b9c)     | [Report](https://hacken.io/audits/agentxyz/sca-agentxyz-token-jan2025/)  |
