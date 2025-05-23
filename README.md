@@ -15,3 +15,5 @@ I am an experienced smart contract security researcher with over 5 years in the 
 | [Moonveil](https://moonveil.gg/)| [af557ce](https://github.com/MoonveilEntertainment/moonveil-contracts)     | [Report](https://hacken.io/audits/moonveil/sca-moonveil-moonveil-contracts-jan2025/)  |
 | [Credbull](https://credbull.io/)| [0792b61](https://github.com/credbull/credbull-defi)     | [Report](https://hacken.io/audits/credbull/sca-re-audit-credbull-token-oct2024/)  |
 | [PinLink](http://pinlink.io/)| [e95984e](https://github.com/PinLinkNetwork/PinLink_SmartContract_PinStaking)     | [Report](https://hacken.io/audits/pinlink/sca-pinlink-smart-contract-aug2024/)  |
+| [Sky Marvel](https://skymarvel.io/)| [203d5a3](https://github.com/TheRavneet/skyBridge-SmartContract)     | [Report](https://hacken.io/audits/sky-marvel/sca-sky-marvel-skybridge-smartcontract-jan2025/)  |
+| [Neemo Finance](https://neemo.finance/)| [15e67df](https://github.com/neemo-finance/neemo-staked-astar)     | [Report](https://hacken.io/audits/neemo-finance/sca-neemo-neemo-staked-astar-aug2024/)  |
